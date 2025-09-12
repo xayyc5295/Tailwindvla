@@ -1,4 +1,4 @@
-name: deploy LandingPAgsT
+name: deploy REstAPi
 
 on:
   push:
